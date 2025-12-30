@@ -1,0 +1,6 @@
+@CheckFlow.WebApi_HostAddress = http://localhost:5218
+
+GET {{CheckFlow.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
