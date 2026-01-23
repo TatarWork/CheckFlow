@@ -1,9 +1,0 @@
-<Solution>
-  <Project Path="CheckFlow.Core/CheckFlow.Core.csproj" Id="b6fe750a-345e-413c-96df-a1155e2ec60f" />
-  <Project Path="CheckFlow.EF.DbEntities/CheckFlow.EF.DbEntities.csproj" Id="c76ca370-00c2-48cb-80df-4e9f2fb212d9" />
-  <Project Path="CheckFlow.EF.DbMigrations/CheckFlow.EF.DbMigrations.csproj" Id="95de1b4c-3ec1-40b0-a6a7-721630d14bdb" />
-  <Project Path="CheckFlow.EF.Repository/CheckFlow.EF.Repository.csproj" Id="3650379c-5d1d-44db-b675-29e4581a6763" />
-  <Project Path="CheckFlow.Service.Infrastructure/CheckFlow.Service.Infrastructure.csproj" Id="2727c7fd-441d-41fb-89d3-538e3480ffa9" />
-  <Project Path="CheckFlow.Service.Services/CheckFlow.Service.Services.csproj" Id="f2b6e260-b7cf-4eda-b8a0-ab177e287a36" />
-  <Project Path="CheckFlow.WebApi/CheckFlow.WebApi.csproj" />
-</Solution>
